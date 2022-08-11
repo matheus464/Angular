@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsung s20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Iphone 11 pro MAX",
+      "price": "4989.50",
+      "id": 6
+    },
+    {
+      "name": "Geladeira Eletrolux",
+      "price": "4500",
+      "id": 7
+    },
+    {
+      "name": "Fogão Brastemp",
+      "price": "1200",
+      "id": 8
+    }
+  ]
+}
